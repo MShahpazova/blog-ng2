@@ -2,7 +2,7 @@
 
 ## Prerequisites
 * must have postgres installed and running
-* postgres must have databases blog_dev and blog_test in the postgres
+* postgres must have databases `blog_dev` and `blog_test` in the postgres
 * `npm install`
 * `npm migrate`
 

@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "postgres",
-    "password": null,
+    "password": "postgres",
     "database": "blog_dev",
     "host": "127.0.0.1",
     "dialect": "postgres",
@@ -11,7 +11,7 @@
 
   "test": {
     "username": "postgres",
-    "password": null,
+    "password": "postgres",
     "database": "blog_test",
     "host": "127.0.0.1",
     "dialect": "postgres",

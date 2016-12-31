@@ -41,6 +41,7 @@
     "log4js": "^1.1.0",
     "method-override": "^2.3.7",
     "morgan": "^1.7.0",
+    "nodemon": "^1.11.0",
     "pg": "^6.1.2",
     "pg-hstore": "^2.3.2",
     "sequelize": "^3.28.0",
